@@ -1,3 +1,6 @@
+# Author: Farhan Khan
+# https://github.com/fkhan0520/QuickFact-Twilio-App
+
 import wikipedia
 import math
 from flask import Flask, request, redirect
